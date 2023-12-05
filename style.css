@@ -1,0 +1,36 @@
+body{
+    padding-left: 20px;
+}
+.titulo{
+    font-family: FreeMono, monospace;
+    font-weight: bolder;
+}
+#display{
+   width:100%;
+   height: 40px; 
+}
+.calculator{
+    background-color: rgb(252, 197, 234);
+    width: max-content;
+    padding:20px;
+    border-radius: 3%;
+}
+.button{
+    width:80px;
+    height: 60px;
+    background-color: rgb(255, 252, 247);
+    font-size: x-large;
+    font-weight: bold;
+    border: 1px solid black;
+    margin: 1px;
+    border-radius: 5%;
+}
+.button:hover{
+    background-color: rgb(238, 235, 237);
+}
+.purple{
+    width:165px;
+}
+.gray{
+    color: rgb(247, 95, 196);
+}
